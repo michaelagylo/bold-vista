@@ -83,6 +83,8 @@ work:
     summary: |2-
       Leading research on the relationship between forests and fish for food security and nutrition
 
+skills: ''
+
 languages:
   - name: English
     percent: 100
