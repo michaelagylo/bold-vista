@@ -39,7 +39,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/michaealgylo
   - icon: brands/linkedin
-    url: https://www.linkedin.com/michaela.lo1/
+    url: https://www.linkedin.com/in/michaela.lo1/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=m_0s2K0AAAAJ&hl=en
   - icon: academicons/orcid
