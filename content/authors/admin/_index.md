@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Michaela GY Lo
+title: Michaela Lo
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -43,7 +43,7 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=m_0s2K0AAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0001-9094-2795
 
 interests:
   - Food systems
@@ -57,7 +57,7 @@ education:
     date_start: 2020-01-01
     date_end: 2024-06-07
     summary: |
-      Thesis on _Impcliations of Land use change on forests and well-being in Indonesia_.
+      Thesis on _Implications of Land use change on forests and well-being in Indonesia_.
     button:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'
@@ -83,19 +83,9 @@ work:
     summary: |2-
       Leading research on the relationship between forests and fish for food security and nutrition
 
-# Skills
+# Hobbies
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
-    items:
-      - name: R language
-        description: ''
-        percent: 95
-        icon: code-bracket
-      - name: GIS
-        description: ''
-        percent: 85
-        icon: cloud
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -104,7 +94,7 @@ skills:
         description: ''
         percent: 80
         icon: person-simple-walk
-      - name: Reading
+      - name: Baking
         description: ''
         percent: 70
         icon: book-open
