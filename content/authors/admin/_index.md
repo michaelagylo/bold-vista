@@ -97,7 +97,7 @@ skills:
       - name: Baking
         description: ''
         percent: 70
-        icon: book-open
+        icon: cook
 
 languages:
   - name: English
@@ -125,7 +125,7 @@ awards:
     url: ''
     date: '2023-10-15'
     awarder: Future Earth
-    icon: hero/currency-dollar
+    icon: ''
     summary: |
       Grant for communicating foodscapes research into two arts exhibitions in Indonesia.
 ---
