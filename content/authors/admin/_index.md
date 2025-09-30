@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alex Johnson
+title: Michaela GY Lo
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -74,37 +74,25 @@ education:
     summary: |
       Grade: Pass with Distinction
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Forest and Food systems Researcher
+    company_name: Center for International Forestry and Research (CIFOR)
+    company_url: 'https://www.cifor-icraf.org/'
     company_logo: ''
-    date_start: 2020-01-01
-    date_end: ''
+    date_start: 2017-01-01
+    date_end: 2020-01-01
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
-    company_logo: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Leading research on the relationship between forests and fish for food security and nutrition
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python & PyTorch
+      - name: R language
         description: ''
         percent: 95
         icon: code-bracket
-      - name: Machine Learning
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
+      - name: GIS
         description: ''
         percent: 85
         icon: cloud
@@ -112,15 +100,11 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking in the Rockies
+      - name: Hiking and Climbing
         description: ''
         percent: 80
         icon: person-simple-walk
-      - name: Building Custom PCs
-        description: ''
-        percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
+      - name: Reading
         description: ''
         percent: 70
         icon: book-open
@@ -128,35 +112,42 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Spanish
+  - name: Bahasa Indonesia
     percent: 50
+  - name: French
+    percent: 50
+  - name: Chinese Mandarin
+    percent: 40
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
+  - title: SEDarc Postdoctoral Fellowship
+    url: ''
+    date: '2025-10-01'
+    awarder: ESRC
+    icon: ''
     summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
+      Provide the opportunity to consolidate PhD through developing publications, their networks, and their research and professional skills. 
+  - title: Communication Pathways Grant
+    url: ''
+    date: '2023-10-15'
+    awarder: Future Earth
     icon: hero/currency-dollar
     summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
-    summary: |
-      Recognized for contributions to scaling laws in deep learning.
+      Grant for communicating foodscapes research into two arts exhibitions in Indonesia.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+I am a Research Fellow at the Durrell Institute of Ecology and Conservation (DICE), University of Kent. My research broadly centres on the environmental and human dimensions of natural resource management in the forest tropics and further seeks to understand the interventions, actions, and processes that lead towards more just and sustainable futures.
+
+My current research interests cover two broad domains:
+
+- Supporting land-use decisions and interventions that advance sustainability goals, particularly in the context of mining and community forestry.
+
+- Investigating the human dimensions of tropical forest and aquatic ecosystems and its importance in sustainable food systems.
+
+As an interdisciplinary researcher, I am also interested in exploring different types of methods to generate diverse evidence to address complex sustainability challenges.
+
+I am actively involved in several Equity & Diversity initiatives that aim to address the unequal barriers and risks in fieldwork, academia, and the broader environmental sector, including: Member of the Equity Advisory Working Group (EDWG) for the British Ecological Society (BES) and steering Committee member for the Equity and Diversity for all Genders in Ecology Gender Network (EDGE), BES.
