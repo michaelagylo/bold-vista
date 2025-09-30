@@ -47,9 +47,17 @@ profiles:
 
 interests:
   - Food systems
+  - Land use change
+  - Mining
+  - Conservation
+  - Small-scale fisheries
+  - Poverty and well-being
   - Socio-environmental change
-  - Sustainability science
-  - Methodological diversity
+  - Forest-water interface
+  - Sustainability
+  - Impact evaluation
+  - Interdisciplinarity
+  - Participatory visual methods
 
 education:
   - area: PhD Environment and Conservation
