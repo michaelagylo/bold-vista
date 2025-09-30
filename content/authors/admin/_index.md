@@ -6,15 +6,15 @@ title: Alex Johnson
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Michaela
+last_name: Lo
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: she/her
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,63 +23,56 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Research Fellow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Durrell Institute of Conservation and Ecology (DICE)
+    url: 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:m.lo@kent.ac.uk'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/michaealgylo
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/michaela.lo1/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?user=m_0s2K0AAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Food systems
+  - Socio-environmental change
+  - Sustainability science
+  - Methodological diversity
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+  - area: PhD Environment and Conservation
+    institution: University of Kent
+    date_start: 2020-01-01
+    date_end: 2024-06-07
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+      Thesis on _Impcliations of Land use change on forests and well-being in Indonesia_.
     button:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+  - area: Double MSc Sustainable Tropical Forestry
+    institution: University of Copenhagen and AgroParisTech, Montpellier
+    date_start: 2015-09-01
+    date_end: 2017-12-31
     summary: |
-      GPA: 4.0/4.0
-
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+      Sepcialised in forest and livelihoods, and tropical forest mangement
+  - area: BSc Environmental Geography and International Development
+    institution: University of East Anglia
+    date_start: 2011-09-01
+    date_end: 2014-05-31
     summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
-
+      Grade: Pass with Distinction
 work:
   - position: Senior AI Research Scientist
     company_name: Meta AI
