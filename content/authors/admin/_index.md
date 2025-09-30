@@ -83,22 +83,6 @@ work:
     summary: |2-
       Leading research on the relationship between forests and fish for food security and nutrition
 
-# Hobbies
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking and Climbing
-        description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Baking
-        description: ''
-        percent: 70
-        icon: cook
-
 languages:
   - name: English
     percent: 100
