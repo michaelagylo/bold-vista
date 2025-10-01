@@ -28,7 +28,7 @@ role: Research Fellow
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Durrell Institute of Conservation and Ecology (DICE)
-    url: 
+    url: https://www.kent.ac.uk/durrell-institute-conservation-ecology
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
