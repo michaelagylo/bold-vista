@@ -112,7 +112,7 @@ awards:
     awarder: ESRC
     icon: ''
     summary: |
-      Provide the opportunity to consolidate PhD through developing publications, their networks, and their research and professional skills. 
+      Funding to consolidate my PhD findings and lay the groundwork for an interdisciplinary, policy-engaged research career that  bridges local realities with global food systems debates. 
   - title: Communication Pathways Grant
     url: ''
     date: '2023-10-15'
@@ -122,6 +122,7 @@ awards:
       Grant for communicating foodscapes research into two arts exhibitions in Indonesia.
 ---
 
-I am a Research Fellow at the Durrell Institute of Ecology and Conservation (DICE), University of Kent. My research broadly centres on the environmental and human dimensions of natural resource management in the forest tropics and further seeks to understand the interventions, actions, and processes that lead towards more just and sustainable futures.
+I am a Research Fellow at the [Durrell Institute of Ecology and Conservation (DICE)](https://www.kent.ac.uk/anthropology-conservation/people/3307/guo-ying-lo-michaela), University of Kent. My research broadly centres on the environmental and human dimensions of natural resource management in the forest tropics and further seeks to understand the interventions, actions, and processes that lead towards more just and sustainable futures.
 
-I am actively involved in several Equity & Diversity initiatives that aim to address the unequal barriers and risks in fieldwork, academia, and the broader environmental sector, including: Member of the Equity Advisory Working Group for the British Ecological Society (BES) and steering Committee member for the Equity and Diversity for all Genders in Ecology Gender Network (EDGE), BES.
+### Activties/Societies
+I am actively involved in several Equity & Diversity initiatives that aim to address the unequal barriers and risks in fieldwork, academia, and the broader environmental sector, including: Member of the Equity Advisory Working Group for the [British Ecological Society (BES)](https://www.britishecologicalsociety.org/) and steering Committee member for the Equity and Diversity for all Genders in [Ecology Gender Network (EDGE), BES](https://www.britishecologicalsociety.org/content/join-the-edge-network/).
