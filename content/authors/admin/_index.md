@@ -124,5 +124,5 @@ awards:
 
 I am a Research Fellow at the [Durrell Institute of Ecology and Conservation (DICE)](https://www.kent.ac.uk/anthropology-conservation/people/3307/guo-ying-lo-michaela), University of Kent. My research broadly centres on the environmental and human dimensions of natural resource management in the forest tropics and further seeks to understand the interventions, actions, and processes that lead towards more just and sustainable futures.
 
-### Activties/Societies
+***Activties/Societies***
 I am actively involved in several Equity & Diversity initiatives that aim to address the unequal barriers and risks in fieldwork, academia, and the broader environmental sector, including: Member of the Equity Advisory Working Group for the [British Ecological Society (BES)](https://www.britishecologicalsociety.org/) and steering Committee member for the Equity and Diversity for all Genders in [Ecology Gender Network (EDGE), BES](https://www.britishecologicalsociety.org/content/join-the-edge-network/).
