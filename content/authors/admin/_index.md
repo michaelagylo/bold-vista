@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Michaela Lo
+title: M.G.Y. Lo
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Michaela
+first_name: MGY
 last_name: Lo
 
 # Pronouns (optional)
@@ -61,7 +61,7 @@ interests:
 
 education:
   - area: PhD Environment and Conservation
-    institution: University of Kent
+    institution: Durrell Institute of Conservation and Ecology (DICE), University of Kent
     date_start: 2020-01-01
     date_end: 2024-06-07
     summary: |
